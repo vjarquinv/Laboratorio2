@@ -1,0 +1,6 @@
+2024-04-13 22:24:33 - Cambio detectado: MODIFY /var/log/journal/1f4cece52f114ed0847ba31d2cc70ad7/system.journal
+2024-04-13 22:24:37 - Cambio detectado: MODIFY /var/log/auth.log
+2024-04-13 22:24:37 - Cambio detectado: MODIFY /var/log/journal/1f4cece52f114ed0847ba31d2cc70ad7/system.journal
+2024-04-13 22:24:52 - Cambio detectado: MODIFY /var/log/syslog
+2024-04-13 22:24:52 - Cambio detectado: MODIFY /var/log/syslog
+2024-04-13 22:24:52 - Cambio detectado: MODIFY /var/log/journal/1f4cece52f114ed0847ba31d2cc70ad7/user-1000.journal
